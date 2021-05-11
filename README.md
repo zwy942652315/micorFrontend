@@ -20,7 +20,7 @@
 
 这时，微前端的概念就产生了。
 
-![图片](/Users/zhuwenyan/study/micro/1.png)
+![图片](https://github.com/zwy942652315/micorFrontend/blob/main/1.png)
 
 ### 微前端架构具备以下几个核心价值：
 
